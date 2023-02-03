@@ -1,0 +1,65 @@
+.order_confirmation{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.Confirmation{
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2px;
+    width: 60%;
+    background-color: white;
+    padding: 12px;
+    height: 100%;
+}
+.Confirmation_thanks{
+    /* border: 3px solid yellow; */
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 34px;
+    /* border-bottom:1px solid lightgray; */
+}
+.Confirmation_email{
+    /* border: 3px solid green; */
+    text-align: center;
+    margin-bottom: 34px;
+    border-bottom:1px solid lightgray;
+}
+.Confirmation_summary{
+    /* border: 3px solid orange; */
+    margin-bottom: 34px;
+    display: flex;
+    border-bottom:1px solid lightgray;
+}
+.summary_bit{
+    /* border: 2px solid black; */
+    padding: 23px;
+    width: 33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+.Confirmation_note{
+    /* border: 3px solid blue; */
+    margin-bottom: 34px;
+    text-align: center;
+    padding: 12px;
+}
+.Confirmation_receipt{
+    /* border: 3px solid red; */
+    background: #81B214;
+    padding: 8px;
+    border-radius: 23px;
+    cursor: pointer;
+    border: none;
+    width: fit-content;
+    font-weight: 600;
+}
+.Confirmation_receipt:hover{
+    color: white;
+}
