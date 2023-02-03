@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Restautant_Intern/static/css/main.0463fcfa.css",
+    "main.js": "/Restautant_Intern/static/js/main.24169c57.js",
+    "static/media/chola.jpg": "/Restautant_Intern/static/media/chola.00c4d2ba5f4b25cba478.jpg",
+    "static/media/allupakoida.jpg": "/Restautant_Intern/static/media/allupakoida.a35ef99e8ab956df273b.jpg",
+    "static/media/corn.jpg": "/Restautant_Intern/static/media/corn.9cdbb271cf54cd91aee5.jpg",
+    "static/media/rajmarice.jpg": "/Restautant_Intern/static/media/rajmarice.40af535f63734de75bc8.jpg",
+    "static/media/pizza.jpg": "/Restautant_Intern/static/media/pizza.ecaa1f6a9d536d4fe5c5.jpg",
+    "static/media/maggi.jpg": "/Restautant_Intern/static/media/maggi.bb24c665bf6039d7f3ea.jpg",
+    "static/media/sweet.jpg": "/Restautant_Intern/static/media/sweet.b4b7d522bcec54d0ef4a.jpg",
+    "static/media/icecream.jpg": "/Restautant_Intern/static/media/icecream.8f68a07109bd1bccefb8.jpg",
+    "static/media/samosa.jpg": "/Restautant_Intern/static/media/samosa.8551268a8fad60461333.jpg",
+    "static/media/nonvegthali.jpg": "/Restautant_Intern/static/media/nonvegthali.cbecae5336802a6b1259.jpg",
+    "index.html": "/Restautant_Intern/index.html",
+    "main.0463fcfa.css.map": "/Restautant_Intern/static/css/main.0463fcfa.css.map",
+    "main.24169c57.js.map": "/Restautant_Intern/static/js/main.24169c57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0463fcfa.css",
+    "static/js/main.24169c57.js"
+  ]
+}
